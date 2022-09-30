@@ -1,0 +1,20 @@
+// Create alias to long function names
+package main
+
+import (
+	"bufio"
+	"fmt"
+	"log"
+	"os"
+)
+
+
+
+//Create alias to long function names
+var pl = fmt.Println
+
+// When a Go program executes it executes a function named main
+// Go statements don't require semicolons
+func main() {
+	
+}
